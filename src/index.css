@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-squares {
+  background-image: url("./assets/background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.online-bg {
+  background-image: url("./assets/online-store-bg.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.footer-bg {
+  background-image: url("./assets/footer-bg.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.footer-mob-bg {
+  background-image: url("./assets/footer-mob-bg.svg");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.contact-bg {
+  background-image: url("./assets/contact-us-bg.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.ourwork-bg {
+  background-image: url("./assets/our-work-bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.web-design-bg {
+  background-image: url("./assets/web-design-bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
